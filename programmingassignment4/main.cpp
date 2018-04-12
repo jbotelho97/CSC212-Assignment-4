@@ -2,6 +2,9 @@
 #include <iostream>
 using namespace std;
 
+//Since this project was graded on an automatic grader, I created a personal main method to test each individual function of the 
+//binary search tree. 
+
 int main() {
 	BSTree table;
 
